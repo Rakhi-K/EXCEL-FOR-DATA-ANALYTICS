@@ -1,2 +1,2 @@
 # EXCEL-FOR-DATA-ANALYTICS
-This respository contains all files,assignments,projects related to data analytics using EXCEL
+This repository contains all files,assignments,projects related to data analytics using EXCEL
